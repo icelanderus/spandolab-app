@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/spandolab-export-demo.gif" alt="Spandolab demo — opening the app, playing the flask animation in the editor and exporting a transparent GIF" width="900">
+  <img src="assets/spandolab-demo.gif" alt="Spandolab demo — a live recording of the editor: the flasks project with physics running on the timeline, then the export panel" width="900">
   <br>
-  <em>Made in Spandolab itself: open the app, play the animation, export a transparent GIF.</em>
+  <em>Recorded live in Spandolab: physics running on the timeline, then export.</em>
 </p>
 
 ---
