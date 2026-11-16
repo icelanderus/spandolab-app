@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/spandolab-flask.gif" alt="Spandolab — free online 2D keyframe animation editor — animated flask logo" width="160">
+  <img src="assets/spandolab-flask.svg" alt="Spandolab — free online 2D keyframe animation editor — animated flask logo" width="160">
 </p>
 
 <h1 align="center">Spandolab — Free Online 2D Animation Editor</h1>
