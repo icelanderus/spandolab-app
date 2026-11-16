@@ -18,6 +18,12 @@
   <a href="assets/spandolab-demo.mp4"><strong>Watch the demo video</strong></a>
 </p>
 
+<p align="center">
+  <img src="assets/spandolab-export-demo.gif" alt="Spandolab demo — opening the app, playing the flask animation in the editor and exporting a transparent GIF" width="900">
+  <br>
+  <em>Made in Spandolab itself: open the app, play the animation, export a transparent GIF.</em>
+</p>
+
 ---
 
 ## What is Spandolab?
