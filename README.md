@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/spandolab-icon.png" alt="Spandolab — free online 2D keyframe animation editor" width="128" height="128">
+  <img src="assets/spandolab-flask.gif" alt="Spandolab — free online 2D keyframe animation editor — animated flask logo" width="160">
 </p>
 
 <h1 align="center">Spandolab — Free Online 2D Animation Editor</h1>
@@ -65,7 +65,7 @@ Open the site, create a new animation in the Gallery, apply a motion preset or t
 
 Spandolab is currently a work in progress and is **not open source yet**. This public page exists so you can discover the project, see it in action and follow along. The source code will be published here when it is ready — **star and watch this repository, stay tuned, and be the first to know.**
 
-> This showcase repository contains only this description, screenshots, the app icon and a demo video. It contains no source code and no project files.
+> This showcase repository contains only this description, screenshots, the animated flask logo and a demo video. It contains no source code and no project files.
 
 ## Keywords
 
